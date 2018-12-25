@@ -1,0 +1,11 @@
+{
+    "encoding" : "UTF-8",
+    "plug-ins" : [
+        { "python" : 2 },
+        { "c++" : 3 },
+        { "ruby" : 4 }
+        ],
+    "indent" : { "length" : 3, "is_ok": false },
+    "tab" : null,
+    "ment":["ach1","ach2","ach3"]
+}
